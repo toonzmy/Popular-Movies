@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="cd_movie_image">Movie Poster</string>
+    <string name="error_message">Failed to get movies. Please try again.</string>
+</resources>
